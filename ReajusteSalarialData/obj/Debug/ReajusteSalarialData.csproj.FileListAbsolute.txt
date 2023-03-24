@@ -1,0 +1,11 @@
+C:\Users\franc\source\repos\ReajusteSalarialData\ReajusteSalarialData\bin\Debug\ReajusteSalarialData.exe.config
+C:\Users\franc\source\repos\ReajusteSalarialData\ReajusteSalarialData\bin\Debug\ReajusteSalarialData.exe
+C:\Users\franc\source\repos\ReajusteSalarialData\ReajusteSalarialData\bin\Debug\ReajusteSalarialData.pdb
+C:\Users\franc\source\repos\ReajusteSalarialData\ReajusteSalarialData\obj\Debug\ReajusteSalarialData.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\ReajusteSalarialData\ReajusteSalarialData\obj\Debug\ReajusteSalarialData.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\source\repos\ReajusteSalarialData\ReajusteSalarialData\obj\Debug\ReajusteSalarialData.Properties.Resources.resources
+C:\Users\franc\source\repos\ReajusteSalarialData\ReajusteSalarialData\obj\Debug\ReajusteSalarialData.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\ReajusteSalarialData\ReajusteSalarialData\obj\Debug\ReajusteSalarialData.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\ReajusteSalarialData\ReajusteSalarialData\obj\Debug\ReajusteSalarialData.exe
+C:\Users\franc\source\repos\ReajusteSalarialData\ReajusteSalarialData\obj\Debug\ReajusteSalarialData.pdb
+C:\Users\franc\source\repos\ReajusteSalarialData\ReajusteSalarialData\obj\Debug\ReajusteSalarialData.ReajusteSalarial.resources
